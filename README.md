@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vincent0x1
+- 👋 Hi, I’m @vincent
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on medium level c++ projects
